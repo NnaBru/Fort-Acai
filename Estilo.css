@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+}
+
+#cabeçalho{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: white;
+}
+
+#contatos{
+    font-family: 'Times New Roman', Times, serif;
+  
+   
+}
+
+#sobre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    text-align: justify;
+}
+
+#contatos{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+}
+
+#duvi{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#perguntas{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+}
+
+#nome{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+}
+
+#teste{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sobre{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#saiba{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#imgteste{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#imgdovalor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#valores{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#btn-purple{
+    background-color: purple;
+}
+
+
+.produtos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container-sm{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: purple;
+    text-align: center;
+}
+
